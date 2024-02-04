@@ -1,2 +1,2 @@
-# Password_Generator
- Password Generatoe using React Hooks and Tailwind CSS
+# Password Generator
+ Password Generator using React Hooks and Tailwind CSS and Vite
